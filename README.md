@@ -33,10 +33,10 @@ Aqui você encontrará um projeto que está em construção no momento.
 
  Minha biblioteca virtual para exposição e leitura de livros de devenvolvimento web e programação em geral no formato PDF, desenvolvido em Svelte 3.
 
-
+<!--
 Abaixo estão algumas imagens do webapp:
-
-`![Screenshot](https://#) A fazer...` 
+![Screenshot](https://#) A fazer... 
+-->
 
 ### Tecnologias utilizadas:
 Bibliotecas, componentes e servidor:
@@ -73,7 +73,7 @@ como fazer:
 <!-- LICENSE -->
 ## Licença
 
-Distribuído sob a licença MIT. Consulte [LICENÇA](https://github.com/jeferson0993/biblioteca-virtual/LICENSE) para obter mais informações.
+Distribuído sob a licença MIT. Consulte [LICENÇA](https://github.com/jeferson0993/biblioteca-virtual/blob/master/LICENSE) para obter mais informações.
 
 
 <!-- CONTACT -->
